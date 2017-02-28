@@ -1,4 +1,5 @@
 function saludo() {
-  document.getElementById('Hola Mundo');
+  document.getElementById('Adios Mundo');
+
 }
-saludando.innerHTML=nombre.value; 
+saludando.innerHTML=nombre.value;
